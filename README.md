@@ -18,3 +18,12 @@
 7. `git checkout main` → Kembali ke cabang utama  
 8. `git merge <nama_branch>` → Menggabungkan branch ke main  
 9. `git push origin --all` → Mengunggah semua perubahan ke GitHub  
+
+# Daftar Perintah Git yang Digunakan
+1. git branch
+2. git checkout -b nama-branch
+3. git add nama-file
+4. git commit -m "Pesan commit"
+5. git checkout main
+6. git merge nama-branch
+7. git push origin main
